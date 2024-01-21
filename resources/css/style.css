@@ -111,12 +111,7 @@ figure {
   margin: 40px 30px;
 }
 
-#bottom-nav {
-  text-align: center;
-  margin: 55px 6px;
-}
-
-#bottom-nav a {
+.bottom-to-top-link {
   color: teal;
 }
 
