@@ -87,6 +87,10 @@ figure {
   margin: 5px auto;
 }
 
+img {
+  width: 80%;
+}
+
 #technical .sample {
   text-align: center;
   display: inline-block;
